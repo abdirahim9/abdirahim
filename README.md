@@ -1,17 +1,12 @@
-# Author-Dickson
+# Author-Abdirahim Mohamud
 ## Portfolio Project
 
 Personal Portfolio
 
 #### Follow
 
-[Twitter](https://twitter.com/Dicksonmuli)
+[Twitter](https://twitter.com/abdirahim)
 
-[Facebook](https://www.facebook.com/dickson.mulli.5)
-
-[coderwall](https://coderwall.com/dicksonmuli)
-
-[Linkedin](https://www.linkedin.com/in/isaiah-dickson-85033813a/)
 
 
 ## Features and Technologies
